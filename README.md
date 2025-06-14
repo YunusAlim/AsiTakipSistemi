@@ -1,6 +1,6 @@
 # Aşı Takip Sistemi
 
-Bu proje, aşı kayıtlarını ve takiplerini yönetmek için geliştirilmiş bir web uygulamasıdır. Yapılan uygulama sayesinde önceki ve yaklaşan aşı takibi ciddi manada kolaylaşmıştır. 
+Bu proje, aşı kayıtlarını ve takiplerini yönetmek için geliştirilmiş bir web uygulamasıdır. Yapılan uygulama sayesinde önceki ve yaklaşan aşı takibi ciddi manada kolaylaşmıştır. Mobil uyumlu arayüz ile uygulama mobilde de rahatlıkla kullanılabilmektedir. Boostrap kütüphanesi ile uygulama arayüzü daha kullanıcı dostu hale getirilmiştir.
 
 ## Özellikler
 
