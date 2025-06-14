@@ -57,6 +57,7 @@ Proje aşağıdaki ana tabloları içermektedir:
 2. Profil sayfanızdan kişisel bilgilerinizi güncelleyin
 3. Aşı kayıtları sayfasından yeni aşı kaydı oluşturun
 4. Ana sayfadan yaklaşan aşılarınızı takip edin
+   veya http://95.130.171.20/~st23360859710 adresinden kullanabilirsiniz.
 
 ## Güvenlik
 
