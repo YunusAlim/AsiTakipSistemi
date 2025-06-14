@@ -7,7 +7,7 @@ Bu proje, aşı kayıtlarını ve takiplerini yönetmek için geliştirilmiş bi
 - Kullanıcı Yönetimi
   - Kayıt olma ve giriş yapma
     ![image](https://github.com/user-attachments/assets/9df01911-83e2-4e68-8f1c-1ef99d96af57)
-
+    
   - Profil yönetimi
     ![image](https://github.com/user-attachments/assets/25ec8fb3-b769-4b63-9ac2-644ffcfe75f8)
 
