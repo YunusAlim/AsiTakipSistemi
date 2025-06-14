@@ -37,9 +37,6 @@ Proje aşağıdaki ana tabloları içermektedir:
 ## Kurulum
 
 1. Projeyi bilgisayarınıza klonlayın:
-```bash
-git clone [proje-url]
-```
 
 2. XAMPP veya benzeri bir local server kurulumu yapın
 
