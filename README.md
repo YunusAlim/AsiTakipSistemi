@@ -55,6 +55,8 @@ Proje aşağıdaki ana tabloları içermektedir:
 
 ## Kurulum
 
+Eğer projeyi geliştirmek veya localde kullanmak istiyorsanız:
+
 1. Projeyi bilgisayarınıza klonlayın:
 
 2. XAMPP veya benzeri bir local server kurulumu yapın
