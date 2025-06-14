@@ -1,21 +1,31 @@
 # Aşı Takip Sistemi
 
-Bu proje, bireylerin aşı kayıtlarını ve aşı takiplerini yönetmek için geliştirilmiş bir web uygulamasıdır.
+Bu proje, aşı kayıtlarını ve takiplerini yönetmek için geliştirilmiş bir web uygulamasıdır. Yapılan uygulama sayesinde önceki ve yaklaşan aşı takibi ciddi manada kolaylaşmıştır. 
 
 ## Özellikler
 
 - Kullanıcı Yönetimi
   - Kayıt olma ve giriş yapma
+    ![image](https://github.com/user-attachments/assets/9df01911-83e2-4e68-8f1c-1ef99d96af57)
+
   - Profil yönetimi
+    ![image](https://github.com/user-attachments/assets/25ec8fb3-b769-4b63-9ac2-644ffcfe75f8)
+
 
 - Aşı Kayıtları
   - Aşı bilgilerini kaydetme
-  ![image](https://github.com/user-attachments/assets/4375c5b5-fb43-42db-a2bc-e44c9967c2ad)
+    ![image](https://github.com/user-attachments/assets/4375c5b5-fb43-42db-a2bc-e44c9967c2ad)
 
   - Aşı geçmişi görüntüleme
+    ![image](https://github.com/user-attachments/assets/3ffd4ee5-c22c-4a4f-ad3e-6a47c12d7bfa)
+
   - Aşı bilgilerini güncelleme
-  - Aşı dozlarını takip etme
+    ![image](https://github.com/user-attachments/assets/f8c6537f-01b1-4885-b36a-f2476b62df95)
+
   - Yaklaşan aşıları görüntüleme
+    ![image](https://github.com/user-attachments/assets/822bdf62-e590-4606-b5d9-4af9d31a2ff6)
+
+  
 
 ## Teknik Detaylar
 
@@ -59,6 +69,7 @@ Proje aşağıdaki ana tabloları içermektedir:
 2. Profil sayfanızdan kişisel bilgilerinizi güncelleyin
 3. Aşı kayıtları sayfasından yeni aşı kaydı oluşturun
 4. Ana sayfadan yaklaşan aşılarınızı takip edin
+   
    veya http://95.130.171.20/~st23360859710 adresinden kullanabilirsiniz.
 
 ## Güvenlik
