@@ -10,6 +10,8 @@ Bu proje, bireylerin aşı kayıtlarını ve aşı takiplerini yönetmek için g
 
 - Aşı Kayıtları
   - Aşı bilgilerini kaydetme
+  ![image](https://github.com/user-attachments/assets/4375c5b5-fb43-42db-a2bc-e44c9967c2ad)
+
   - Aşı geçmişi görüntüleme
   - Aşı bilgilerini güncelleme
   - Aşı dozlarını takip etme
@@ -66,5 +68,5 @@ Proje aşağıdaki ana tabloları içermektedir:
 
 ## Video Tanıtım
 
-Projenin video tanıtımı -------------------------- adresinde yapılmıştır.
+Projenin video tanıtımı (https://www.youtube.com/watch?v=Ae7-gzgfKvk) adresinde yapılmıştır.
 
